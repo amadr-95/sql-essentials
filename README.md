@@ -1,5 +1,5 @@
 
-# [PostgreSQL COURSE](https://www.amigoscode.com/courses/sql)
+# [SQL ESSENTIALS COURSE](https://www.amigoscode.com/courses/sql)
 
 Follow course_index.sql file.
 
