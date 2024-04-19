@@ -1,6 +1,7 @@
-<a href='https://www.amigoscode.com/courses/sql'>
-<h1>PostgreSQL COURSE</h1>
-</a>
+
+# [PostgreSQL COURSE](https://www.amigoscode.com/courses/sql)
+
+Follow course_index.sql file.
 
 ## Connect to PostgreSQL server on Windows
 ```bash
