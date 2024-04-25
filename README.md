@@ -1,7 +1,6 @@
 
-# [SQL ESSENTIALS COURSE](https://www.amigoscode.com/courses/sql)
+# [SQL ESSENTIALS](https://www.amigoscode.com/courses/sql)
 
-Follow course_index.sql file.
 
 ## Connect to PostgreSQL server on Windows
 ```bash
